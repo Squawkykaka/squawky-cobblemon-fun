@@ -1,0 +1,13 @@
+name = "Squawky's Cobblemon Fun!"
+author = "Squawkykaka"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3084e08f383c7e068166d8dc1da7d971dd2379eb1f02d7d8b1214df65480365b"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.20.1"

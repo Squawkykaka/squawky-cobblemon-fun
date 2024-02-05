@@ -1,0 +1,13 @@
+name = "Lithostitched"
+filename = "lithostitched-fabric-1.20.1-1.1.4a.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/uU1zP8Xq/lithostitched-fabric-1.20.1-1.1.4a.jar"
+hash-format = "sha1"
+hash = "5aa87acb70cfd72d62307989bc70a9e8283a918f"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "uU1zP8Xq"
