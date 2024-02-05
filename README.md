@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a custom modpack built aaround cobblemon with a focus on exploration and building
+This is a custom modpack built around cobblemon with a focus on exploration and building
 
 ## Highlights
 
