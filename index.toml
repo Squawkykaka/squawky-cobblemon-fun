@@ -151,11 +151,6 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "a52e7b7897b5f1000fbbb1c4fb72eb0691de2672324492a55c115b99496c1fec"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "78d4ac6aa17d84a6c200abd253aca4c2980a5394dbe5aaa960f3ea28f154bb44"
 metafile = true
@@ -196,6 +191,11 @@ hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
@@ -227,12 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b7bbe5dfca543853644d58d3e1a3379a99410054fe1ead9875bdb7b194037011"
 metafile = true
 
 [[files]]
